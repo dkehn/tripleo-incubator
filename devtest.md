@@ -67,7 +67,7 @@ __(Note: all of the following commands should be run on your host machine, not i
 
 1. git clone this repository to your local machine.
 
-        git clone https://github.com/tripleo/incubator.git
+        git clone https://github.com/openstack/tripleo-incubator.git
 
 1. git clone bm_poseur to your local machine.
 
